@@ -129,6 +129,11 @@ p{
 
 .hero{
     background: #2F303A;
+    background-image: 
+    linear-gradient(rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4)), 
+    url(../images/Img.jpg);
+    margin: 1600px; 
+    margin:0 auto ;
     text-align: center;
     padding-bottom: 200px;
     padding-top: 200px;
@@ -267,6 +272,8 @@ main{
     padding-top: 30px;
     padding-bottom: 30px;
 }
+.soc-links-item
+
 
 /* Footer */
 .footer{
@@ -397,4 +404,3 @@ main{
     padding: 20px 24px ;
     border: 1px solid #EEEEEE;
 }
-
